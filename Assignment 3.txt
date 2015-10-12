@@ -1,0 +1,14 @@
+Create a menu that asks the user if he wants to eat something:
+eg. 1. Would you like Pizza?
+    2. Would you like a Burger? 
+    3. Exit
+
+If the user chooses 1 or 2 then output a statement like "you are eating a burger or pizza".
+
+After the message is given to the user, show the menu again.
+
+However if the user chooses 3 then exist the program.
+
+If the user enters something other than 1,2, or 3, inform him he has made an error and to make an appropriate selection and show the menu again.
+
+Test your output with different cases.
